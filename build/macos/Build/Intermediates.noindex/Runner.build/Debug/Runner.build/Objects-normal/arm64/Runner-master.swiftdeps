@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "2b7c9b298f552e9b5abcb2aa1ecf685ba7920afa8342203ac554ac833fe9085b"
+build_start_time: [1692765003, 981213092]
+build_end_time: [1692765008, 616121053]
+inputs:
+  "/Users/vighneshprabhu/Documents/GitHub/ElderAid-Flutter/macos/Flutter/GeneratedPluginRegistrant.swift": [1692764985, 236773490]
+  "/Users/vighneshprabhu/Documents/GitHub/ElderAid-Flutter/macos/Runner/AppDelegate.swift": [1692415294, 4078865]
+  "/Users/vighneshprabhu/Documents/GitHub/ElderAid-Flutter/macos/Runner/MainFlutterWindow.swift": [1692415294, 11748790]
